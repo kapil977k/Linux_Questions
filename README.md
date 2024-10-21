@@ -1,1 +1,1 @@
-# Linux_Questions
+# Linux Questions and answers -----   21/10/2024
